@@ -1,3 +1,3 @@
-module github.com/flipao/nummanip.git
+module github.com/flipao/nummanip
 
 go 1.14
